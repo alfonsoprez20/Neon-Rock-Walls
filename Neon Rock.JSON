@@ -17,6 +17,18 @@
         "url": "https://raw.githubusercontent.com/alfonsoprez20/Neon-Rock-Walls/master/Pexels%20003.jpeg",
         "name": "Wall 003",
         "thumbnail": "https://raw.githubusercontent.com/alfonsoprez20/Neon-Rock-Walls/master/Pexels%20003%20(03).jpg"
+       },
+      {
+        "author": "Pexels",
+        "url": "https://raw.githubusercontent.com/alfonsoprez20/Neon-Rock-Walls/master/Pexels%20004.jpeg",
+        "name": "Wall 004",
+        "thumbnail": "https://raw.githubusercontent.com/alfonsoprez20/Neon-Rock-Walls/master/Pexels%20005%20(05).jpg"
+      },
+    {
+      "author": "Pexels",
+      "url": "https://raw.githubusercontent.com/alfonsoprez20/Neon-Rock-Walls/master/Pexels%20005.jpeg",
+      "name": "Wall 005",
+      "thumbnail": "https://raw.githubusercontent.com/alfonsoprez20/Neon-Rock-Walls/master/Pexels%20002%20(02).jpg"
     }
   ]
 }
